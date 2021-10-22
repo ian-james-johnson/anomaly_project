@@ -90,7 +90,7 @@ Answers to Questions are given above.
 
 To recreate this work:
 The github repository for this notebook is at:
-https://github.com/ian-james-johnson/anomaly_detection_project
+https://github.com/ian-james-johnson/anomaly_project
 
 Clone the repository onto your device.
 To access the SQL server you will need to provide your own env.py file with: host, user, and password
